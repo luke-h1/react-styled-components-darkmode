@@ -1,1 +1,1 @@
-### Dark mode switcher (with styled-components)
+* Dark mode switcher (with styled-components)
